@@ -29,4 +29,10 @@
     <div style="text-align: left;"> 
     <div align= "center">   </div> 
     </div>
+    <div align= "center">  
+        
+[![oldwater's GitHub stats](https://github-stats-extended.vercel.app/api?username=oldwater0224)](https://github.com/stats-organization/github-stats-extended)
     
+</div>
+    
+
