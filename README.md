@@ -31,7 +31,7 @@
     </div>
     <div align= "center">  
         
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=oldwater0224&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark)](https://github-stats-extended.vercel.app/api?username=oldwater0224&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=oldwater0224&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark&custom_title=oldwater's%20GitHub%20Stats)](https://github-stats-extended.vercel.app/api?username=oldwater0224&rank_icon=github&show_icons=true&include_all_commits=true&disable_animations=false&theme=github_dark)
 
 </div>
 
