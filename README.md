@@ -1,6 +1,8 @@
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 정헌수입니다. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> "문제를 기술로 해결한다"는 점에 매료되어 개발을 시작했습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 운영 환경에서 발생하는 성능·비용 문제를 분석하는 개발자가 되고 싶습니다. </div> 
+    </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  Tech Stacks </h2> <br> 
@@ -35,5 +37,6 @@
 
 </div>
 
+    
     
 
